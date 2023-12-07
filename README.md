@@ -28,7 +28,6 @@ Our project leverages various technologies, each chosen for its reliability and 
 
 ### Database and Message Broker:
 - [![SQL Database][sql_database_badge]][sql_database_link]: Reliable database management for storing and retrieving data.
-- [![RabbitMQ][rabbitmq_badge]][rabbitmq_link]: Effective message queuing for seamless service communication.
 
 ### Containerization and Orchestration:
 - [![Docker Compose][docker_compose_badge]][docker_compose_link]: For defining and running multi-container Docker applications.
