@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/solomonRei/WiseBack.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/YourBestDream/WiseFront.git
+[submodule "langchain"]
+	path = langchain
+	url = https://github.com/YourBestDream/Captions-Getter.git
