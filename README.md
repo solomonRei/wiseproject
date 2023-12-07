@@ -74,7 +74,6 @@ After setting up the project, you can:
 [flask_python_badge]: https://img.shields.io/badge/Flask_Python-000000?style=plastic&logo=flask&logoColor=white
 [react_js_badge]: https://img.shields.io/badge/React_JS-20232A?style=plastic&logo=react&logoColor=61DAFB
 [sql_database_badge]: https://img.shields.io/badge/SQL_Database-316192?style=plastic&logo=database&logoColor=white
-[rabbitmq_badge]: https://img.shields.io/badge/RabbitMQ-F05032?style=plastic&logo=rabbitmq&logoColor=white
 [docker_compose_badge]: https://img.shields.io/badge/Docker_Compose-2496ED?style=plastic&logo=docker&logoColor=white
 
 <!-- Links -->
@@ -82,5 +81,4 @@ After setting up the project, you can:
 [flask_python_link]: https://flask.palletsprojects.com/
 [react_js_link]: https://reactjs.org/
 [sql_database_link]: https://www.mysql.com/
-[rabbitmq_link]: https://www.rabbitmq.com/
 [docker_compose_link]: https://docs.docker.com/compose/
