@@ -2,6 +2,8 @@
 
 Wise by Team19 is an innovative tool designed for content creators and video enthusiasts. It offers rapid video summaries, tag analytics, viewership trends, and personalized content recommendations integrated with ChatGPT. Built using Spring Java, Flask Python, React JS, and an SQL database, Wise ensures an optimized experience for YouTube content, boosting engagement and performance.
 
+DEMO: https://neptun.md
+
 ## Table of Contents
 
 - [About](#about)
